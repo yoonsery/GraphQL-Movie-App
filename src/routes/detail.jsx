@@ -65,7 +65,6 @@ const Detail = () => {
     variables: { id: +id },
   });
   console.log(data);
-
   return (
     <Container>
       <Column>
